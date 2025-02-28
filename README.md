@@ -1,0 +1,1 @@
+# Evaluating-Intellectual-Property-Rights-and-Research-papers-using-GenAI
