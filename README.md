@@ -1,11 +1,8 @@
 # Evaluating-Intellectual-Property-Rights-and-Research-papers-using-GenAI
 
-```markdown
-# Evaluating Intellectual Property Rights and Research Papers using GenAI
-
 This project provides a system to evaluate and protect intellectual property rights in research papers and documents using Generative AI. It includes features for document registration, plagiarism detection, blockchain-based ownership tracking, and analytics visualization.
 
-## Features
+**Features**
 - Upload and register research papers/documents as intellectual property
 - Check for plagiarism and similarity with existing documents
 - Track document ownership using a simple blockchain implementation
@@ -13,12 +10,12 @@ This project provides a system to evaluate and protect intellectual property rig
 - Visualize IP statistics and trends
 - Store and retrieve documents with metadata
 
-## Prerequisites
+**Prerequisites**
 - Python 3.8+
 - Ollama (optional, for AI analysis) running on `localhost:11434`
 - Git (for cloning the repository)
 
-## Requirements
+**Requirements**
 The project requires the following Python packages:
 ```
 numpy>=1.21.0
@@ -114,11 +111,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Created as of March 04, 2025
 ```
 
-### Instructions:
-1. **Copy and Paste**: Copy the entire content above and paste it into your `README.md` file.
-2. **Update the Repository URL**: Replace `https://github.com/your-username/Evaluating-Intellectual-Property-Rights-and-Research-papers-using-GenAI.git` with your actual GitHub repository URL.
-3. **Filename**: I’ve assumed the main Python file is named `ip_protection.py`. If it’s different (e.g., `main.py`), update the `streamlit run ip_protection.py` command accordingly.
-4. **Requirements.txt**: Ensure you create a `requirements.txt` file with the listed dependencies. You can do this by running `pip freeze > requirements.txt` after installing them, or manually create it with the versions specified.
-5. **License**: If you don’t have a `LICENSE` file yet, either create one (e.g., MIT License) or remove the license section if not applicable.
-
-This README is ready to use and provides a professional, comprehensive guide for your project! Let me know if you need further adjustments.
